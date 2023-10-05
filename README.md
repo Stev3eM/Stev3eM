@@ -1,3 +1,3 @@
-- Hey, I'm Steve
-- I'm an informatic student and new to the binary world.
-- I’m currently learning Java by writing some little programs.
+- Name: Stefan
+- Studying: Computer Science
+- Sem: 3.
