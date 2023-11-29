@@ -1,3 +1,3 @@
-- Name: Stefan
-- Studying: Computer Science
-- Sem: 3.
+- **name:** Steve.eM
+- **study program:** Computer Science, sem 3
+- **Expierience:** Java, Typescript, HTML, CSS, React
